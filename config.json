@@ -1,0 +1,47 @@
+{
+    "MojangReq": 2,
+    "GcReq": 6,
+    "100 = .1 ms which is 0.001 and 1000 is 1 ms": null,
+    "SpreadPerReq": 100,
+
+    "UseApi": true,
+    "ChangeskinOnSnipe": true,
+    "UseWebhook": true,
+    "UseNanoSleep": true,
+    "ManualBearer": false,
+
+    "UsePersonal": false,
+    "WebhookLink": "",
+    "PersonalWebhookBody": 
+    {
+        "content": null,
+        "embeds":
+        [
+            {
+                "title": "this is a baseplate"
+            }
+        ]
+    },
+
+    "ChangeSkinLink": "https://textures.minecraft.net/texture/393e1dc4b234665792c7775d2466f109421d0145ed7d3d63d89d5d4e0dbf5228",
+    "SkinModel": "slim",
+    "DiscordID": "",
+
+    "DismalWebhook":
+    {
+        "content": "{id}",
+        "embeds": 
+        [
+            {
+                "title": "New Snipe! :gun:",
+                "description": "```sniped the name {name} on a {accountType} account.```",
+                "url": "https://namemc.com/profile/{name}",
+                "color": 2697256,
+                "thumbnail":
+                {
+                    "url": "https://mc-heads.net/body/{name}/right"
+                }
+            }
+        ]
+    }
+}
