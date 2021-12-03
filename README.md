@@ -10,7 +10,7 @@ Dismal sniper is a name sniper developed by Liza, it is also completely awful, i
 </p>
 
 # Shoutouts
-The Limitless Corporation - Outsniping Dismal on the daily
+Every sniper to exist in the world - Outsniping Dismal on the daily
 
 cryst6l - being cute
 
